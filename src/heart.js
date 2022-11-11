@@ -143,7 +143,7 @@ var ParticlePool = (function () {
 /*
  * Putting it all together
  */
-export function drawHeart (canvas) {
+export function drawHeart(canvas) {
     var context = canvas.getContext('2d'),
         particles = new ParticlePool(settings.particles.length),
         particleRate = settings.particles.length / settings.particles.duration, // particles/sec
