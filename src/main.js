@@ -42,7 +42,7 @@ btn1.style.top = `${height - btn1.height}px`;
 // btn3_b.style.top = `${height * 3 - btn2_f.height - 5}px`;
 
 const p = document.querySelector('#p-click');
-p.style.left = `${width / 2 - 130}px`;
+p.style.left = `${width / 2 - 180}px`;
 p.style.top = `${height / 2 - 100}px`;
 
 btn_music.style.left = `${width - btn_music.width - 5}px`;
