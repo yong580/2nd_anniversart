@@ -6,6 +6,7 @@ body {
     margin: 0;
     padding: 0;
     background: url(/image/background_hand_black.jpg) no-repeat center center;
+    background-size: cover;
 }
 
 .page {
